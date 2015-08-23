@@ -1,0 +1,8 @@
+Instructions:
+
+Connect Four is a two player game where player 1 and player 2 alternate dropping checkers into a slot of the 6x7 board, starting with player 1. You can place 
+checkers in one of the 7 slots until it is full, selecting it by entering the 
+co-ordinate on your turn. Whoever manages to place four checkers in a row 
+horizontally, vertically, or diagonally, first, wins.
+
+Scoring for highscore is based on the number on moves the game has been won in. (22-# of moves)*10.
