@@ -1,1 +1,1 @@
-Grade 11 ISP, Connect Four.
+Grade 11 Final Project, Connect Four.
